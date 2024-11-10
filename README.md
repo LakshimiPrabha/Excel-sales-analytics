@@ -5,6 +5,7 @@
 - **Project objective:** 
 
     **1.** Create a _[customer performance report]_(https://github.com/LakshimiPrabha/Excel-sales-analytics/blob/main/Customer%20Performance%20Report.pdf)
+  
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/LakshimiPrabha/Excel-sales-analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
